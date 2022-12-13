@@ -36,8 +36,7 @@ H1: M1 != M2 (rata-rata sampel 1 tidak sama dengan rata-rata sampel 2)
 ### c. Lakukan Uji Statistik (df =2)
 t = 1.9267
 ### d. Nilai Kritikal
-![image](https://user-images.githubusercontent.com/88318140/207239119-e09a8a0f-d461-499b-81cc-3e33a21f7a5c.png)
-Nilai kritikal dengan df = 2, α= 0.05 adalah -2.919 hingga 2.919 Nilai kritikal dengan df = 44, α= 0.05 adalah -1.68 hingga 1.68
+Nilai kritikal dengan df = 2, α= 0.05 adalah -4.302653 hingga 4.302653 Nilai kritikal dengan df = 44, α= 0.05 adalah -2.015368 hingga 2.015368
 ### e. Keputusan
 Hasil uji t berada di antara kedua nilai kritikal (di dalam CI), sehingga H0 diterima, dan H1 ditolak.
 ### f. Kesimpulan
