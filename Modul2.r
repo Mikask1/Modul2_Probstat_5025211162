@@ -21,8 +21,8 @@ tsum.test(mean.x=23500, s.x=3900, n.x=100, mu=20000, alternative = "less")
 tsum.test(mean.x=3.64, mean.y=2.79, s.x=1.67, s.y=1.32, n.x=19, n.y=27, var.equal=TRUE, conf.level=0.95)
 
 # 3d
-qt(p = 0.05, df = 2, lower.tail = FALSE)
-qt(p = 0.05, df = 44, lower.tail = FALSE)
+qt(p = 0.025, df = 2, lower.tail = FALSE)
+qt(p = 0.025, df = 44, lower.tail = FALSE)
 
 # Soal 4
 install.packages("ggpubr")
